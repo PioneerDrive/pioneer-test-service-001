@@ -15,7 +15,7 @@ eureka:         #tells about the Eureka server details and its refresh time
  
 spring:    
   application:
-    name: test-service-001   #current service name to be used by the eureka server
+    name: pioneer-test-service-001   #current service name to be used by the eureka server
      
 management:
   security:
